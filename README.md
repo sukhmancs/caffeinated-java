@@ -31,3 +31,12 @@ To explore or use any of the projects in this repository, follow these general s
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/java-oop-showcase.git
+   ```
+2. **Navigate to Project Directory:**
+   ```bash
+    cd java-oop-showcase/project-name
+   ```
+
+## License
+
+This repository is licensed under the [MIT License](./LICENSE). Feel free to use the code, learn from it, and contribute back to the Java community!
