@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYyZTUyYjAwNGYwZDk0M2EwNGNiYWZjMTg2N2Y2ZGVhZDYyOTZlMSZjdD1z/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>-->
    <div class="gif-container">
-     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
+     <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="150"/>
    </div>
   
   <div id="badges">
