@@ -1,7 +1,23 @@
-<div align="center">
-
-# ☕ Java Object-Oriented Programming Showcase
-
+<div id="header" align="center">
+  <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYyZTUyYjAwNGYwZDk0M2EwNGNiYWZjMTg2N2Y2ZGVhZDYyOTZlMSZjdD1z/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>-->
+   <div class="gif-container">
+     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
+   </div>
+  
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/singh-sukhmanjeet/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.reddit.com/user/sukhmang">
+      <img src="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=red" alt="Reddit Badge"/>
+    </a>
+    <a href="https://twitter.com/mijugilo">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>  
+  <h1>
+    ☕ Java Object-Oriented Programming Showcase    
+  </h1>
 </div>
 
 🙋‍♂️ Welcome to the Java Object-Oriented Programming Showcase! This repository is a hands-on collection of Java projects designed to demonstrate and reinforce key principles of object-oriented programming (OOP). Dive into the world of encapsulation, inheritance, polymorphism, interfaces, association, and arrays of objects.
