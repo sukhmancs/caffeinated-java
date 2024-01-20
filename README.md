@@ -30,11 +30,11 @@ To explore or use any of the projects in this repository, follow these general s
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/java-oop-showcase.git
+   git clone https://github.com/sukhmancs/caffeinated-java.git
    ```
 2. **Navigate to Project Directory:**
    ```bash
-    cd java-oop-showcase/project-name
+    cd caffeinated-java/<project-name>
    ```
 
 ## License
